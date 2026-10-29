@@ -1,0 +1,17 @@
+# Build directories
+/build_vs/
+/out/
+/build/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
